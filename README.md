@@ -12,3 +12,9 @@ adding this extra line, need to commit it ? changed  indent from 2 ro 8
 
 ## new tests:
 - option "No wrap"
+
+
+# _v3
+* using adding in place
+* changing from "Spaces" to "Tabs"
+* [uploading_file.md](https://github.com/user-attachments/files/16324940/uploading_file.md)
